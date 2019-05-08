@@ -39,20 +39,34 @@
     border: none;
 	padding: 0px;
 }
+.labelheader {
+	font-size: 1.8em;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	color: black;
+}
 .cornerheader {
 	border: 3px solid #036;
 	height: 62px;
 	float: left;
 }
+.spacer {
+    margin-bottom: 35px;
+}
 .links {
-	font-size: 38px;
-	padding: 10px;
+	font-size: 2.6em;
+	padding-top: 12px;
+	padding-bottom: 8px;
     border: none;
 	height:100%;
 }
 .linkssmaller {
-	font-size: 26px;
-	height: 45px;
+	font-size: 1.8em;
+	height: 50px;
+}
+.linksstats {
+	font-size: 1.8em;
+	height: 50px;
 }
 .update {
 	font-size: 26px;
@@ -85,6 +99,11 @@
 	behavior: url(css/border-radius.htc);
 	border-radius: 30px;
 }
+
+tr td {
+    align: center;
+}
+
 h1 {
 	font-size: 26px;
 	padding:0px;
@@ -195,9 +214,6 @@ ol#lefty  li {
     padding-left:20;
 }
 
-#links {
-	padding-left: 60px;
-}
 .lit {
 	background: #BDB76B;
 }
