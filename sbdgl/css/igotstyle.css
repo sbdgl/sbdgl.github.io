@@ -218,6 +218,40 @@ ol#lefty  li {
     padding-left:20;
 }
 
+.championshof {
+	color: #039;
+	font-size: 16px;
+	font-style: bold;
+	font-family: Georgia, serif;
+	border: 3px solid #036;
+	background-color: #999;
+	margin: auto;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-khtml-border-radius: 30px;
+	behavior: url(css/border-radius.htc);
+	border-radius: 30px;
+	width: 440px;
+}
+
+.champgridhof {
+	font-size: 28px;
+	height: 36px;
+	border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+	border-collapse: collapse;
+	empty-cells: none;
+	white-space: nowrap;
+}
+
+.starhof {
+    width:9%;
+    padding-right:20;
+    padding-left:20;
+}
+
 .lit {
 	background: #BDB76B;
 }
