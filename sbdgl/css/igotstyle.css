@@ -46,8 +46,8 @@
   -webkit-transform: rotate(270deg); /* Safari 3-8 */
   transform: rotate(270deg);
   position:relative;
-  top: 114;
-  right: 310;
+  top: 106;
+  right: 314;
   height: 10;
 }
 .labelheader {
